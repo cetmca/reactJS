@@ -17,7 +17,7 @@ Pre-requisite - Node.JS
 
 
   
-  >> taskkill /f /im node.exe  // use full command, since in windows, its not releasing the port after exit
+  >> taskkill /f /im node.exe  // use full command, since in Windows, its not releasing the port after exit
 
 
 
